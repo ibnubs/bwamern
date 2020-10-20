@@ -61,14 +61,15 @@ export default function Button(props) {
         }
     }
 
-    return
-    <button
+    return(
+        <button
         className={className.join(" ")}
         style={props.style}
         onClick={onClick}
     >
         {props.children}
-    </button>;
+    </button>
+    );
 }
 
 Button.propTypes = {
