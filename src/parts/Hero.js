@@ -28,7 +28,7 @@ export default function Hero(props) {
                         Forget Busy Work,<br/> Start Next Vacation
                     </h1>
                     <p className="mb-4 font-weight-light text-gray-500 w-75" style={{lineHeight: "170%"}}>
-                        We provide what you need to enjou your holiday with family. Time to make another memorable moments.
+                        We provide what you need to enjoy your holiday with family. Time to make another memorable moments. Your money can return, but your time is not. What are you thinking
                     </p>
                     <Button className="btn px-5" hasShadow isPrimary onClick={showMostPicked}>
                         Show Me Now
