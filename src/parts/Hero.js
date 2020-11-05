@@ -11,11 +11,11 @@ import numberFormat from 'utils/formatNumber';
 
 export default function Hero(props) {
     
-    function showMostPicked(){
+    function showMostPicked() {
         window.scrollTo({
-            top: props.refMosPicked.current.offsetTop - 30,
-            behavior: "smooth"
-        })
+            top: props.refMostPicked.current.offsetTop - 30,
+            behavior: "smooth",
+        });
     }
 
 

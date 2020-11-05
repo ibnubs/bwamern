@@ -7,12 +7,12 @@
   "mostPicked": [
     {
       "_id": "asd1293uasdads1",
-      "name": "Jung Hook Sie",
+      "name": "Cloud Hotel",
       "type": "Apartment",
       "imageUrl": "/images/img-mostpicked-1.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
-      "price": "80",
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "price": "40",
       "unit": "night"
     },
     {
@@ -27,32 +27,32 @@
     },
     {
       "_id": "asd1293uasdads1",
-      "name": "House Tour",
+      "name": "Yellow Green",
       "type": "Rumah",
       "imageUrl": "/images/img-mostpicked-3.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
-      "price": "80",
+      "country": "Indonesia",
+      "city": "Solo",
+      "price": "240",
       "unit": "night"
     },
     {
       "_id": "asd1293uasdads1",
-      "name": "Jung Hook Sie",
-      "type": "Apartment",
+      "name": "Turtle Villa",
+      "type": "Rumah",
       "imageUrl": "/images/img-mostpicked-4.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
-      "price": "80",
+      "country": "Indonesia",
+      "city": "Malang",
+      "price": "180",
       "unit": "night"
     },
     {
       "_id": "asd1293uasdads1",
-      "name": "Jung Hook Sie",
+      "name": "Glass House",
       "type": "Apartment",
       "imageUrl": "/images/img-mostpicked-5.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
-      "price": "80",
+      "country": "Indonesia",
+      "city": "Yogya",
+      "price": "340",
       "unit": "night"
     }
   ],
@@ -63,34 +63,34 @@
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
-          "imageUrl": "/images/image-category-1.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "Circle House",
+          "imageUrl": "/images/img-category-1.png",
+          "country": "Indonesia",
+          "city": "Bali",
           "isPopular": true
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
-          "imageUrl": "/images/image-category-2.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "Garden House",
+          "imageUrl": "/images/img-category-2.png",
+          "country": "Indonesia",
+          "city": "Bandung",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
-          "imageUrl": "/images/image-category-3.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "Mellow Resort",
+          "imageUrl": "/images/img-category-3.png",
+          "country": "Indonesia",
+          "city": "Sukabumi",
           "isPopular": false
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Grand Dhika",
-          "imageUrl": "/images/image-category-4.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "Lake Resort",
+          "imageUrl": "/images/img-category-4.png",
+          "country": "Indonesia",
+          "city": "Bogor",
           "isPopular": false
         }
       ]
@@ -101,35 +101,35 @@
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
-          "imageUrl": "/images/image-category-5.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
-          "isPopular": false
-        },
-        {
-          "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
-          "imageUrl": "/images/image-category-6.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
-          "isPopular": false
-        },
-        {
-          "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
-          "imageUrl": "/images/image-category-7.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
-          "isPopular": false
-        },
-        {
-          "_id": "asd1293uasdads1",
-          "name": "Grand Dhika",
-          "imageUrl": "/images/image-category-8.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "Sidekick Hotel",
+          "imageUrl": "/images/img-category-5.png",
+          "country": "Indonesia",
+          "city": "Bali",
           "isPopular": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Library Hotel",
+          "imageUrl": "/images/img-category-6.png",
+          "country": "Indonesia",
+          "city": "Bandung",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Mellow Hotel",
+          "imageUrl": "/images/img-category-7.png",
+          "country": "Indonesia",
+          "city": "Sukabumi Indonesia",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Fire Hotel",
+          "imageUrl": "/images/img-category-8.png",
+          "country": "Indonesia",
+          "city": "Bogor",
+          "isPopular": false
         }
       ]
     },
@@ -139,34 +139,34 @@
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
-          "imageUrl": "/images/image-category-9.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
-          "isPopular": false
-        },
-        {
-          "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
-          "imageUrl": "/images/image-category-10.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
-          "isPopular": false
-        },
-        {
-          "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
-          "imageUrl": "/images/image-category-11.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "Silver Apartements",
+          "imageUrl": "/images/img-category-9.png",
+          "country": "Indonesia",
+          "city": "Bali",
           "isPopular": true
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Grand Dhika",
-          "imageUrl": "/images/image-category-12.jpg",
-          "country": "South Korea",
-          "city": "Seoul Flore",
+          "name": "Stone Apartements",
+          "imageUrl": "/images/img-category-10.png",
+          "country": "Indonesia",
+          "city": "Bandung",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Wood Apartments",
+          "imageUrl": "/images/img-category-11.png",
+          "country": "Indonesia",
+          "city": "Sukabumi",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Small Apartement",
+          "imageUrl": "/images/img-category-12.png",
+          "country": "Indonesia",
+          "city": "Bogor",
           "isPopular": false
         }
       ]
@@ -177,8 +177,8 @@
     "imageUrl": "/images/testimonial-landingpages.jpg",
     "name": "Happy Family",
     "rate": 4.55,
-    "content": "What a great trip with my family and I should try again next time soon ...",
-    "familyName": "Angga",
-    "familyOccupation": "Product Designer"
+    "content": "What a great place with my family and I should try again next time soon ...",
+    "familyName": "Jane",
+    "familyOccupation": "Digital Freelancer"
   }
 }

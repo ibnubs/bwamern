@@ -6,6 +6,7 @@ import propTypes from "prop-types";
 export default function Button(props) {
     const className = [props.className];
     if (props.isPrimary) className.push("btn-primary");
+    if (props.isLight) className.push("btn-light");
     if (props.isLarge) className.push("btn-lg");
     if (props.isSmall) className.push("btn-sm");
     if (props.isBlock) className.push("btn-block");
@@ -51,7 +52,7 @@ export default function Button(props) {
         } else {
             return (
                 <Link
-                    to={props.href}
+                    to="{props.href}"
                     className={className.join(" ")}
                     style={props.style}
                     onClick={onClick}
@@ -87,4 +88,5 @@ Button.propTypes = {
     isBlock: propTypes.bool,
     isExternal: propTypes.bool,
     hasShadow: propTypes.bool,
+    isLight: propTypes.bool,
 };
