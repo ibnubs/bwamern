@@ -5,7 +5,7 @@ import iconTraveler from 'assets/images/icons/ic_traveler.svg';
 import iconTreasure from 'assets/images/icons/ic_treasure.svg';
 import imageHero from 'assets/images/img-hero.jpg';
 import imageHero_ from 'assets/images/shadow-hero.jpg';
-import Button from 'element/Button';
+import Button from 'elements/Button';
 import numberFormat from 'utils/formatNumber';
 
 
