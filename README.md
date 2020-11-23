@@ -1,3 +1,95 @@
+<p align="center"><img src="https://github.com/ibnubs/bwamern/blob/master/public/images/Staycation.png" width="400"></p>
+
+
+## About Staycation
+
+Staycation build as MERN Class project. We Build with **NodeJS** as Backend, we use **ReactJS** as UI framework (User Interface) and also **Bootstrap** as CSS library. What kind feature we makes:
+
+- Homepage show most picked hotel:
+  > Have a couple category,
+  > Have testimonial,
+- Detail Page:
+  > pricing and booking information
+  > Near Information around places
+  > Testimonial
+- Booking Information
+- Payment Pages
+- Complete Page
+
+This project still on progress, our build on homepage page.
+
+## Deployed IN: 
+
+Soon update
+
+## How to Start
+
+Soon update
+
+## What we need?
+
+To start di project we need:
+
+- Text Editor > **[Visual Studio Code](https://code.visualstudio.com/)** (Dapat menggunakan text-editor lain seperti Notepad++, Atom, Brackets, SublimeText)
+- **[Node.JS](https://nodejs.org/en/download/)**
+- **[Git Bash](https://git-scm.com/downloads)**
+- Browser > **[Chrome](https://www.google.com/chrome/)** / **[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/)**
+
+
+## Contribute
+
+soon update
+
+## Revision & Security Vulnerabilities
+
+Soon update
+
+## License
+
+Framework ReactJS & Bootstrap is software _open-source_  license under [MIT license](https://opensource.org/licenses/MIT).
+Design project powered by Buildwithangga.com
+
+<br>
+<br>
+
+## Indonesia Version
+
+## Memulai Pengembangan
+
+
+
+## Apa Saja Yang Dibutuhkan?
+
+Untuk memulai pengembangan, diperlukan software utama dan penunjang agar para pengembang dapat mudah berinteraksi dengan _script_ permrograman yang telah di buat oleh pengembang sebelumnya. Software yang diperlukan antara lain:
+
+- Text Editor > **[Visual Studio Code](https://code.visualstudio.com/)** (Dapat menggunakan text-editor lain seperti Notepad++, Atom, Brackets, SublimeText)
+- **[Node.JS](https://nodejs.org/en/download/)**
+- **[Git Bash](https://git-scm.com/downloads)**
+- Browser > **[Chrome](https://www.google.com/chrome/)** / **[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/)**
+
+
+## Kontribusi
+
+Terima kasih atas bantuan dan pengembangan yang telah di berikan, kedepan akan dibuat dokumentasi penggunaan dan perbaikan _(maintenance)_ pada update README.md yang akan datang. _**STAY TUNE!**_
+
+## Revisi & Security Vulnerabilities
+
+Jika pada saat pengembangan didapati sebuah bug, fungsi yang rusak, serta seluruh penambahan dan juga revisi yang dilakukan, mohon hubungi email [ibnubs@gmail.com](mailto:ibnubs@gmail.com). Dengan begitu kita dapat menjadikan proyek ini menjadi aplikasi yang dapat memberikan performa baik saat di pakai oleh pengguna.
+
+
+## Lisensi
+Framework ReactJS & Bootstrap adalah software lisensi _open-source_ dibawah [MIT license](https://opensource.org/licenses/MIT).
+Buildwithangga.com
+
+
+
+<br>
+<br>
+<br>
+<br>
+
+## Template Readme From Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
