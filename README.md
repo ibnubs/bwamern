@@ -18,7 +18,7 @@ Staycation build as MERN Class project. We Build with **NodeJS** as Backend, we 
 
 This project still on progress, our build on homepage page.
 
-## Deployed IN: 
+## Deployed IN: https://condescending-jennings-5dc10d.netlify.app/
 
 Soon update
 
@@ -81,6 +81,9 @@ Jika pada saat pengembangan didapati sebuah bug, fungsi yang rusak, serta seluru
 Framework ReactJS & Bootstrap adalah software lisensi _open-source_ dibawah [MIT license](https://opensource.org/licenses/MIT).
 Buildwithangga.com
 
+
+---
+Copyright © 2020 by Ibnubs
 
 
 <br>
