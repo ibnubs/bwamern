@@ -25,6 +25,15 @@ Soon update
 ## How to Start
 
 Soon update
+<!-- 
+Library:
+> Install yarn add react-reveal  
+> example use react reveal, import Zoom from 'react-reveal';
+> source react reveal : react-reveal.com/docs/
+
+
+-->
+
 
 ## What we need?
 
@@ -34,6 +43,7 @@ To start di project we need:
 - **[Node.JS](https://nodejs.org/en/download/)**
 - **[Git Bash](https://git-scm.com/downloads)**
 - Browser > **[Chrome](https://www.google.com/chrome/)** / **[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/)**
+- Library > React-Reveal
 
 
 ## Contribute
