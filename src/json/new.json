@@ -1,0 +1,2205 @@
+
+
+
+
+POST _bulk
+{
+    "index": {
+        "_index": "game-voucher-en-web",
+        "_id": "game_voucher_0001"
+    }
+}
+{
+    "id": "game_voucher_0001",
+    "voucherId": "bnfgame01",
+    "pricing": {
+        "price": 50000,
+        "discount": 0,
+        "payment": "ONETIME"
+    },
+    "description": "Get a lot benefit to boost your performance in your mobile games",
+    "name": "All in - One Game",
+    "benefits": [
+        {
+            "name": "Point Blank",
+            "description": "Ammo up 40% 3D / Dedicated Troopers Gacha 2 Unit / Dual Knife 30D",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452683924.jpg"
+        },
+        {
+            "name": "Domino Qiu Qiu",
+            "description": " Free VIP Interactive Tool",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396970583.jpg"
+        },
+        {
+            "name": "Domino Gaple",
+            "description": "Free VIP Interactive Tool",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452558774.jpg"
+        },
+        {
+            "name": "Samgong",
+            "description": "Free VIP Interactive Tool",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452775814.jpg"
+        },
+        {
+            "name": "Ran Online",
+            "description": "Inventory Backpack Card,2x Adon bracelet (5H),Pet Feed 100%,10x Megaphone",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452745458.jpg"
+        },
+        {
+            "name": "Angel Love Online",
+            "description": "Very Fortune Card 3 Day",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452415096.jpg"
+        },
+        {
+            "name": "3 Kingdoms Online",
+            "description": "7D-VIP Service,S-Perfect Mastery Pill,Stallion Blessing Talisman 5 pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452323141.jpg"
+        },
+        {
+            "name": "3 Kingdoms Reborn",
+            "description": "Special Syrup 100pcs,Special Ginseng 100pcs,Special Fortune 2pcs,S-Protect Talisman 2pcs,S-Soldier Reborn Scroll 10pcs,S-Revive Scroll 10pcs,Pesanan Loyal Order 1pcs,S-Double Exploit 1pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452341361.jpg"
+        },
+        {
+            "name": "Free Fire",
+            "description": "Cool Captain Box (Random),Cool Captain Series 3 days trial",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452538885.jpg"
+        },
+        {
+            "name": "AOV",
+            "description": "Random BOX,Tel'Annas Love Sworn (Permanent),Tel'Annas Woodland (Permanent),Arthur Love Sworn (Permanent),Arthur Catacombs,Random Item",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452435355.jpg"
+        },
+        {
+            "name": "COD Mobile",
+            "description": "AK117 Blue Graffiti,Flag Grenade Blue Graffiti,Flashbag grenade  Blue Graffiti,Smoke Grenade Blue Graffiti,Concussion Grenade Blue Graffiti",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452480158.jpg"
+        },
+        {
+            "name": "Marvel Super War",
+            "description": "28 Crystals,Hero Clue 2 Pcs,3 Days Hero Try On Voucher",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452667430.jpg"
+        },
+        {
+            "name": "PUBGLITE",
+            "description": "Desert Camo (Kar98K),Jungle (M416),Yellow Stripes (AKM)",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452697937.jpg"
+        },
+        {
+            "name": "Cyristal Saga",
+            "description": "in Game Special Daily Login Bonus (25 Crystal )",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452525021.jpg"
+        },
+        {
+            "name": "Cyrystal Epic",
+            "description": "in Game Special Daily Login Bonus (25 Crystal )",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452510295.jpg"
+        },
+        {
+            "name": "BigBoss",
+            "description": "in Game Special Daily Login Bonus (2500 Coins + 3 Ruby)",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452464137.jpg"
+        },
+        {
+            "name": "RF Online",
+            "description": "MovementSpeed Increase Potion – 5 pcs,Advanced  Un-manned MineTool – 5 pcs,Unmanned Mining Tool Battery[Extra-Large] – 5 pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452760499.jpg"
+        },
+        {
+            "name": "Cross Fire",
+            "description": "AK47 Knife Bornbeast_Noblegold -7 hari, Desert Eagle-RoyalDragon5 -3 hari,Cursedoll Grenade -7 hari,Expand Grenade Slot -7 hari,Karakter JNS -14 hari",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452494182.jpg"
+        },
+        {
+            "name": "IdolStreet 2",
+            "description": "The Battle Pack,Seal of Metamorphosis (Soul Seal),Moe Dolly Card - Gacha,IDS Noble Card - 10 Days",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452578802.png"
+        },
+        {
+            "name": "Lokapala",
+            "description": "Hero Trial Neera 7D",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452610574.jpg"
+        },
+        {
+            "name": "Lord Mobile",
+            "description": "500 gems,Speed Up(3 h)*3,Speed Up (60 m)*3,Gryphon Chest*5,Nocero Chest*5,Rare Material Chest*5",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452645757.jpg"
+        },
+        {
+            "name": "Pubg Mobile",
+            "description": "7D Winter Warmth Backpack,2 Silver fragment",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452715786.png"
+        },
+        {
+            "name": "MPL",
+            "description": "Trial Voucher MPL",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452398639.jpg"
+        },
+        {
+            "name": "Ayodance Mobile",
+            "description": "50 Ruby,1 Magic Card Ticket,50 Avatar Ticket,50 Face Ticket,50 Acc Ticket",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452449294.jpg"
+        },
+        {
+            "name": "Legend Of Kingdoms",
+            "description": "50 diamond,500 gold",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452624349.jpg"
+        }
+    ],
+    "howToActivates": [
+        {
+            "name": "Purchase package from myIndihome",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "Open IndiGamer website",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "View instructions on how to redeem you in-game items from indiGamer",
+            "description": "",
+            "active": true
+        }
+    ],
+    "howToRedeemUrl": "https://google.com",
+    "active": true
+}
+{
+    "index": {
+        "_index": "game-voucher-en-web",
+        "_id": "game_voucher_0002"
+    }
+}
+{
+    "id": "game_voucher_0002",
+    "voucherId": "bnfgame02",
+    "pricing": {
+        "price": 20000,
+        "discount": 0,
+        "payment": "MONTHLY"
+    },
+    "description": "Get a lot benefit to boost your performance in your mobile games",
+    "name": "PC Game",
+    "benefits": [
+        {
+            "name": "Point Blank",
+            "description": "Ammo up 40% 3D / Dedicated Troopers Gacha 2 Unit / Dual Knife 30D",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452683924.jpg"
+        },
+        {
+            "name": "Ran Online",
+            "description": "Inventory Backpack Card,2x Adon bracelet (5H),Pet Feed 100%,10x Megaphone",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452745458.jpg"
+        },
+        {
+            "name": "Angel Love Online",
+            "description": "Very Fortune Card 3 Day",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452415096.jpg"
+        },
+        {
+            "name": "3 Kingdoms Online",
+            "description": "7D-VIP Service,S-Perfect Mastery Pill,Stallion Blessing Talisman 5 pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452323141.jpg"
+        },
+        {
+            "name": "3 Kingdoms Reborn",
+            "description": "Special Syrup 100pcs,Special Ginseng 100pcs,Special Fortune 2pcs,S-Protect Talisman 2pcs,S-Soldier Reborn Scroll 10pcs,S-Revive Scroll 10pcs,Pesanan Loyal Order 1pcs,S-Double Exploit 1pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452341361.jpg"
+        },
+        {
+            "name": "PUBGLITE",
+            "description": "Desert Camo (Kar98K),Jungle (M416),Yellow Stripes (AKM)",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452697937.jpg"
+        },
+        {
+            "name": "RF Online",
+            "description": "MovementSpeed Increase Potion – 5 pcs,Advanced  Un-manned MineTool – 5 pcs ,Unmanned Mining Tool Battery[Extra-Large] – 5 pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452760499.jpg"
+        },
+        {
+            "name": "Cross Fire",
+            "description": "AK47 Knife,Bornbeast_Noblegold -7 Days,Desert Eagle-RoyalDragon5 -3 Days, Cursedoll Grenade -7 Days,Expand Grenade Slot -7 Days, Karakter JNS -14 Days",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452494182.jpg"
+        },
+        {
+            "name": "IdolStreet 2",
+            "description": "The Battle Pack,Seal of Metamorphosis (Soul Seal),Moe Dolly Card - Gacha,IDS Noble Card - 10 Days",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452578802.png"
+        }
+    ],
+    "howToActivates": [
+        {
+            "name": "Purchase package from myIndihome",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "Open IndiGamer website",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "View instructions on how to redeem you in-game items from indiGamer",
+            "description": "",
+            "active": true
+        }
+    ],
+    "howToRedeemUrl": "https://google.com",
+    "active": true
+}
+{
+    "index": {
+        "_index": "game-voucher-en-web",
+        "_id": "game_voucher_0003"
+    }
+}
+{
+    "id": "game_voucher_0003",
+    "voucherId": "bnfgame03",
+    "pricing": {
+        "price": 20000,
+        "discount": 0,
+        "payment": "MONTHLY"
+    },
+    "description": "Get a lot benefit to boost your performance in your mobile games",
+    "name": "Mobile Game",
+    "benefits": [
+        {
+            "name": "Lokapala",
+            "description": "Hero Trial Neera 7D",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396844487.jpg"
+        },
+        {
+            "name": "Free Fire",
+            "description": "Cool Captain Box (Random),Cool Captain Series 3 days trial",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396790613.jpg"
+        },
+        {
+            "name": "AOV",
+            "description": "Random BOX,Tel'Annas Love Sworn (Permanent),Tel'Annas Woodland (Permanent),Arthur Love Sworn (Permanent),Arthur Catacombs,Random Item",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452435355.jpg"
+        },
+        {
+            "name": "COD Mobile",
+            "description": "AK117 Blue Graffiti,Flag Grenade Blue Graffiti,Flashbag grenade  Blue Graffiti,Smoke Grenade Blue Graffiti,Concussion Grenade Blue Graffiti",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396700378.jpg"
+        },
+        {
+            "name": "Marvel Super War",
+            "description": "28 Crystals,Hero Clue 2 Pcs,3 Days Hero Try On Voucher",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396907613.jpg"
+        },
+        {
+            "name": "Lord Mobile",
+            "description": "500 gems,Speed Up(3 h)*3,Speed Up (60 m)*3,Gryphon Chest*5,Nocero Chest*5,Rare]Material Chest*5",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396886564.jpg"
+        },
+        {
+            "name": "Black Dessert",
+            "description": "100 Black Pearl",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606399485344.jpg"
+        },
+        {
+            "name": "Legend Of Kingdoms",
+            "description": "50 diamond,500 gold",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396860075.jpg"
+        },
+        {
+            "name": "Pubg Mobile",
+            "description": "7D Winter Warmth Backpack,2Silverfragment",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606399538465.png"
+        }
+    ],
+    "howToActivates": [
+        {
+            "name": "PurchasepackagefrommyIndihome",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "OpenIndiGamerwebsite",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "View instructions on how to redeem you in-game items from indiGamer",
+            "description": "",
+            "active": true
+        }
+    ],
+    "howToRedeemUrl": "https: //google.com",
+    "active": true
+}
+{
+    "index": {
+        "_index": "game-voucher-en-web",
+        "_id": "game_voucher_0004"
+    }
+}
+{
+    "id": "game_voucher_0004",
+    "voucherId": "bnfgame04",
+    "pricing": {
+        "price": 20000,
+        "discount": 0,
+        "payment": "MONTHLY"
+    },
+    "description": "Get a lot benefit to boost your performance in your mobile games",
+    "name": "Board Game",
+    "benefits": [
+        {
+            "name": " Domino Qiu Qiu",
+            "description": "Free VIP Interactive Tool",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606453786489.jpg"
+        },
+        {
+            "name": " Domino Gaple",
+            "description": "Free VIP Interactive Tool",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606453751378.jpg"
+        },
+        {
+            "name": "Samgong",
+            "description": "Free VIP Interactive Tool",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606453805855.jpg"
+        },
+        {
+            "name": " BigBoss",
+            "description": " in Game Special Daily Login Bonus (2500 Coins + 3 Ruby)",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606453726844.jpg"
+        },
+        {
+            "name": "Legend Of Kingdoms",
+            "description": "50 diamond,500 gold",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606453670539.jpg"
+        }
+    ],
+    "howToActivates": [
+        {
+            "name": "Purchase package from myIndihome",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "Open IndiGamer website",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "View instructions on how to redeem you in-game items from indiGamer",
+            "description": "",
+            "active": true
+        }
+    ],
+    "howToRedeemUrl": "https://google.com",
+    "active": true
+}
+{
+    "index": {
+        "_index": "game-voucher-en-mobile",
+        "_id": "game_voucher_0001"
+    }
+}
+{
+    "id": "game_voucher_0001",
+    "voucherId": "bnfgame01",
+    "pricing": {
+        "price": 50000,
+        "discount": 0,
+        "payment": "ONETIME"
+    },
+    "description": "Get a lot benefit to boost your performance in your mobile games",
+    "name": "All in - One Game",
+    "benefits": [
+        {
+            "name": "Point Blank",
+            "description": "Ammo up 40% 3D / Dedicated Troopers Gacha 2 Unit / Dual Knife 30D",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452683924.jpg"
+        },
+        {
+            "name": "Domino Qiu Qiu",
+            "description": "Free VIP Interactive Tool",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452730515.jpg"
+        },
+        {
+            "name": "Domino Gaple",
+            "description": "Free VIP Interactive Tool",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452558774.jpg"
+        },
+        {
+            "name": "Samgong",
+            "description": "Free VIP Interactive Tool",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452775814.jpg"
+        },
+        {
+            "name": "Ran Online",
+            "description": "Inventory Backpack Card,2x Adon bracelet (5H),Pet Feed 100%,10x Megaphone",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452745458.jpg"
+        },
+        {
+            "name": "Angel Love Online",
+            "description": "Very Fortune Card 3 Day",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452415096.jpg"
+        },
+        {
+            "name": "3 Kingdoms Online",
+            "description": "7D-VIP Service,S-Perfect Mastery Pill,Stallion Blessing Talisman 5 pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452323141.jpg"
+        },
+        {
+            "name": "3 Kingdoms Reborn",
+            "description": "Special Syrup 100pcs,Special Ginseng 100pcs,Special Fortune 2pcs,S-Protect Talisman 2pcs,S-Soldier Reborn Scroll 10pcs,S-Revive Scroll 10pcs,Pesanan Loyal Order 1pcs,S-Double Exploit 1pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452341361.jpg"
+        },
+        {
+            "name": "Free Fire",
+            "description": "Cool Captain Box (Random),Cool Captain Series 3 days trial",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452538885.jpg"
+        },
+        {
+            "name": "AOV",
+            "description": "Random BOX,Tel'Annas Love Sworn (Permanent),Tel'Annas Woodland (Permanent),Arthur Love Sworn (Permanent),Arthur Catacombs,Random Item",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452435355.jpg"
+        },
+        {
+            "name": "COD Mobile",
+            "description": "AK117 Blue Graffiti,Flag Grenade Blue Graffiti,Flashbag grenade  Blue Graffiti,Smoke Grenade Blue Graffiti,Concussion Grenade Blue Graffiti",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452480158.jpg"
+        },
+        {
+            "name": "Marvel Super War",
+            "description": "28 Crystals,Hero Clue 2 Pcs,3 Days Hero Try On Voucher",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452667430.jpg"
+        },
+        {
+            "name": "PUBGLITE",
+            "description": "Desert Camo (Kar98K),Jungle (M416),Yellow Stripes (AKM)",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452697937.jpg"
+        },
+        {
+            "name": "Cyristal Saga",
+            "description": "in Game Special Daily Login Bonus (25 Crystal )",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452525021.jpg"
+        },
+        {
+            "name": "Cyrystal Epic",
+            "description": "in Game Special Daily Login Bonus (25 Crystal )",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452510295.jpg"
+        },
+        {
+            "name": "BigBoss",
+            "description": "in Game Special Daily Login Bonus (2500 Coins + 3 Ruby)",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452464137.jpg"
+        },
+        {
+            "name": "RF Online",
+            "description": "MovementSpeed Increase Potion – 5 pcs,Advanced  Un-manned MineTool – 5 pcs,Unmanned Mining Tool Battery[Extra-Large] – 5 pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452760499.jpg"
+        },
+        {
+            "name": "Cross Fire",
+            "description": "AK47 Knife Bornbeast_Noblegold -7 Days,Desert Eagle-RoyalDragon5 -3 Days, Cursedoll Grenade -7 Days,Expand Grenade Slot -7 Days, Karakter JNS -14 Days",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452494182.jpg"
+        },
+        {
+            "name": "IdolStreet 2",
+            "description": "The Battle Pack,Seal of Metamorphosis (Soul Seal),Moe Dolly Card - Gacha,IDS Noble Card - 10 Days",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452578802.png"
+        },
+        {
+            "name": "Lokapala",
+            "description": "Hero Trial Neera 7D",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452610574.jpg"
+        },
+        {
+            "name": "Lord Mobile",
+            "description": "500 gems,Speed Up(3 h)*3,Speed Up (60 m)*3,Gryphon Chest*5,Nocero Chest*5,Rare Material Chest*5",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452645757.jpg"
+        },
+        {
+            "name": "Pubg Mobile",
+            "description": "7D Winter Warmth Backpack,2 Silver fragment",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452715786.png"
+        },
+        {
+            "name": "MPL",
+            "description": "Trial Voucher MPL",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452398639.jpg"
+        },
+        {
+            "name": "Ayodance Mobile",
+            "description": "50 Ruby,1 Magic Card Ticket,50 Avatar Ticket,50 Face Ticket,50 Acc Ticket",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452449294.jpg"
+        },
+        {
+            "name": "Legend Of Kingdoms",
+            "description": "50 diamond,500 gold",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452624349.jpg"
+        }
+    ],
+    "howToActivates": [
+        {
+            "name": "Purchase package from myIndihome",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "Open IndiGamer website",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "View instructions on how to redeem you in-game items from indiGamer",
+            "description": "",
+            "active": true
+        }
+    ],
+    "howToRedeemUrl": "https://google.com",
+    "active": true
+}
+{
+    "index": {
+        "_index": "game-voucher-en-mobile",
+        "_id": "game_voucher_0002"
+    }
+}
+{
+    "id": "game_voucher_0002",
+    "voucherId": "bnfgame02",
+    "pricing": {
+        "price": 20000,
+        "discount": 0,
+        "payment": "MONTHLY"
+    },
+    "description": "Get a lot benefit to boost your performance in your mobile games",
+    "name": "PC Game",
+    "benefits": [
+        {
+            "name": "Point Blank",
+            "description": "Ammo up 40% 3D / Dedicated Troopers Gacha 2 Unit / Dual Knife 30D",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452683924.jpg"
+        },
+        {
+            "name": "Ran Online",
+            "description": "Inventory Backpack Card,2x Adon bracelet (5H),Pet Feed 100%,10x Megaphone",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452745458.jpg"
+        },
+        {
+            "name": "Angel Love Online",
+            "description": "Very Fortune Card 3 Day",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452415096.jpg"
+        },
+        {
+            "name": "3 Kingdoms Online",
+            "description": "7D-VIP Service,S-Perfect Mastery Pill,Stallion Blessing Talisman 5 pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452323141.jpg"
+        },
+        {
+            "name": "3 Kingdoms Reborn",
+            "description": "Special Syrup 100pcs,Special Ginseng 100pcs,Special Fortune 2pcs,S-Protect Talisman 2pcs,S-Soldier Reborn Scroll 10pcs,S-Revive Scroll 10pcs,Pesanan Loyal Order 1pcs,S-Double Exploit 1pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452341361.jpg"
+        },
+        {
+            "name": "PUBGLITE",
+            "description": "Desert Camo (Kar98K),Jungle (M416),Yellow Stripes (AKM)",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452697937.jpg"
+        },
+        {
+            "name": "RF Online",
+            "description": "MovementSpeed Increase Potion – 5 pcs,Advanced Un-manned MineTool – 5 pcs ,Unmanned Mining Tool Battery[Extra-Large] – 5 pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452760499.jpg"
+        },
+        {
+            "name": "Cross Fire",
+            "description": "AK47 Knife,Bornbeast_Noblegold -7 Days,Desert Eagle-RoyalDragon5 -3 Days,Cursedoll Grenade -7 Days, Expand Grenade Slot -7 Days, Karakter JNS -14 Days",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452494182.jpg"
+        },
+        {
+            "name": "IdolStreet 2",
+            "description": "The Battle Pack,Seal of Metamorphosis (Soul Seal),Moe Dolly Card - Gacha,IDS Noble Card - 10 Days",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452578802.png"
+        }
+    ],
+    "howToActivates": [
+        {
+            "name": "Purchase package from myIndihome",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "Open IndiGamer website",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "View instructions on how to redeem you in-game items from indiGamer",
+            "description": "",
+            "active": true
+        }
+    ],
+    "howToRedeemUrl": "https://google.com",
+    "active": true
+}
+{
+    "index": {
+        "_index": "game-voucher-en-mobile",
+        "_id": "game_voucher_0003"
+    }
+}
+{
+    "id": "game_voucher_0003",
+    "voucherId": "bnfgame03",
+    "pricing": {
+        "price": 20000,
+        "discount": 0,
+        "payment": "MONTHLY"
+    },
+    "description": "Get a lot benefit to boost your performance in your mobile games",
+    "name": "Mobile Game",
+    "benefits": [
+        {
+            "name": "Lokapala",
+            "description": "Hero Trial Neera 7D",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396844487.jpg"
+        },
+        {
+            "name": "Free Fire",
+            "description": "Cool Captain Box (Random),Cool Captain Series 3 days trial",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396790613.jpg"
+        },
+        {
+            "name": "AOV",
+            "description": "Random BOX,Tel'Annas Love Sworn (Permanent),Tel'Annas Woodland (Permanent),Arthur Love Sworn (Permanent),Arthur Catacombs,Random Item",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452435355.jpg"
+        },
+        {
+            "name": "COD Mobile",
+            "description": "AK117 Blue Graffiti,Flag Grenade Blue Graffiti,Flashbag grenade  Blue Graffiti,Smoke Grenade Blue Graffiti,Concussion Grenade Blue Graffiti",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396700378.jpg"
+        },
+        {
+            "name": "Marvel Super War",
+            "description": "28 Crystals,Hero Clue 2 Pcs,3 Days Hero Try On Voucher",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396907613.jpg"
+        },
+        {
+            "name": "Lord Mobile",
+            "description": "500 gems,Speed Up(3 h)*3,Speed Up (60 m)*3,Gryphon Chest*5,Nocero Chest*5,Rare]Material Chest*5",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396886564.jpg"
+        },
+        {
+            "name": "Black Dessert",
+            "description": "100 Black Pearl",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606399485344.jpg"
+        },
+        {
+            "name": "Legend Of Kingdoms",
+            "description": "50 diamond,500 gold",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396860075.jpg"
+        },
+        {
+            "name": "Pubg Mobile",
+            "description": "7D Winter Warmth Backpack,2Silverfragment",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606399538465.png"
+        }
+    ],
+    "howToActivates": [
+        {
+            "name": "PurchasepackagefrommyIndihome",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "OpenIndiGamerwebsite",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "View instructions on how to redeem you in-game items from indiGamer",
+            "description": "",
+            "active": true
+        }
+    ],
+    "howToRedeemUrl": "https://google.com",
+    "active": true
+}
+{
+    "index": {
+        "_index": "game-voucher-en-mobile",
+        "_id": "game_voucher_0004"
+    }
+}
+{
+    "id": "game_voucher_0004",
+    "voucherId": "bnfgame04",
+    "pricing": {
+        "price": 20000,
+        "discount": 0,
+        "payment": "MONTHLY"
+    },
+    "description": "Get a lot benefit to boost your performance in your mobile games",
+    "name": "Board Game",
+    "benefits": [
+        {
+            "name": " Domino Qiu Qiu",
+            "description": "Free VIP Interactive Tool",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606453786489.jpg"
+        },
+        {
+            "name": " Domino Gaple",
+            "description": "Free VIP Interactive Tool",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606453751378.jpg"
+        },
+        {
+            "name": " Samgong",
+            "description": "Free VIP Interactive Tool",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606453805855.jpg"
+        },
+        {
+            "name": " BigBoss",
+            "description": " in Game Special Daily Login Bonus (2500 Coins + 3 Ruby)",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606453726844.jpg"
+        },
+        {
+            "name": "Legend Of Kingdoms",
+            "description": "50 diamond,500 gold",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606453670539.jpg"
+        }
+    ],
+    "howToActivates": [
+        {
+            "name": "Purchase package from myIndihome",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "Open IndiGamer website",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "View instructions on how to redeem you in-game items from indiGamer",
+            "description": "",
+            "active": true
+        }
+    ],
+    "howToRedeemUrl": "https://google.com",
+    "active": true
+}
+{
+    "index": {
+        "_index": "game-voucher-en-mobile",
+        "_id": "game_voucher_0001"
+    }
+}
+{
+    "id": "game_voucher_0001",
+    "voucherId": "bnfgame01",
+    "pricing": {
+        "price": 50000,
+        "discount": 0,
+        "payment": "ONETIME"
+    },
+    "description": "Get a lot benefit to boost your performance in your mobile games",
+    "name": "All in - One Game",
+    "benefits": [
+        {
+            "name": "Point Blank",
+            "description": "Ammo up 40% 3D / Dedicated Troopers Gacha 2 Unit / Dual Knife 30D",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452683924.jpg"
+        },
+        {
+            "name": "Domino Qiu Qiu",
+            "description": "Free VIP Interactive Tool",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452730515.jpg"
+        },
+        {
+            "name": "Domino Gaple",
+            "description": "Free VIP Interactive Tool",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452558774.jpg"
+        },
+        {
+            "name": "Samgong",
+            "description": "Free VIP Interactive Tool",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452775814.jpg"
+        },
+        {
+            "name": "Ran Online",
+            "description": "Inventory Backpack Card,2x Adon bracelet (5H),Pet Feed 100%,10x Megaphone",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452745458.jpg"
+        },
+        {
+            "name": "Angel Love Online",
+            "description": "Very Fortune Card 3 Day",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452415096.jpg"
+        },
+        {
+            "name": "3 Kingdoms Online",
+            "description": "7D-VIP Service,S-Perfect Mastery Pill,Stallion Blessing Talisman 5 pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452323141.jpg"
+        },
+        {
+            "name": "3 Kingdoms Reborn",
+            "description": "Special Syrup 100pcs,Special Ginseng 100pcs,Special Fortune 2pcs,S-Protect Talisman 2pcs,S-Soldier Reborn Scroll 10pcs,S-Revive Scroll 10pcs,Pesanan Loyal Order 1pcs,S-Double Exploit 1pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452341361.jpg"
+        },
+        {
+            "name": "Free Fire",
+            "description": "Cool Captain Box (Random),Cool Captain Series 3 days trial",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452538885.jpg"
+        },
+        {
+            "name": "AOV",
+            "description": "Random BOX,Tel'Annas Love Sworn (Permanent),Tel'Annas Woodland (Permanent),Arthur Love Sworn (Permanent),Arthur Catacombs,Random Item",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452435355.jpg"
+        },
+        {
+            "name": "COD Mobile",
+            "description": "AK117 Blue Graffiti,Flag Grenade Blue Graffiti,Flashbag grenade  Blue Graffiti,Smoke Grenade Blue Graffiti,Concussion Grenade Blue Graffiti",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452480158.jpg"
+        },
+        {
+            "name": "Marvel Super War",
+            "description": "28 Crystals,Hero Clue 2 Pcs,3 Days Hero Try On Voucher",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452667430.jpg"
+        },
+        {
+            "name": "PUBGLITE",
+            "description": "Desert Camo (Kar98K),Jungle (M416),Yellow Stripes (AKM)",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452697937.jpg"
+        },
+        {
+            "name": "Cyristal Saga",
+            "description": "in Game Special Daily Login Bonus (25 Crystal )",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452525021.jpg"
+        },
+        {
+            "name": "Cyrystal Epic",
+            "description": "in Game Special Daily Login Bonus (25 Crystal )",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452510295.jpg"
+        },
+        {
+            "name": "BigBoss",
+            "description": "in Game Special Daily Login Bonus (2500 Coins + 3 Ruby)",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452464137.jpg"
+        },
+        {
+            "name": "RF Online",
+            "description": "MovementSpeed Increase Potion – 5 pcs,Advanced  Un-manned MineTool – 5 pcs,Unmanned Mining Tool Battery[Extra-Large] – 5 pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452760499.jpg"
+        },
+        {
+            "name": "Cross Fire",
+            "description": "AK47 Knife Bornbeast_Noblegold -7 Days, Desert Eagle-RoyalDragon5 -3 Days, Cursedoll Grenade -7 Days, Expand Grenade Slot -7 Days, Karakter JNS -14 Days",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452494182.jpg"
+        },
+        {
+            "name": "IdolStreet 2",
+            "description": "The Battle Pack,Seal of Metamorphosis (Soul Seal),Moe Dolly Card - Gacha,IDS Noble Card - 10 Days",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452578802.png"
+        },
+        {
+            "name": "Lokapala",
+            "description": "Hero Trial Neera 7D",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452610574.jpg"
+        },
+        {
+            "name": "Lord Mobile",
+            "description": "500 gems,Speed Up(3 h)*3,Speed Up (60 m)*3,Gryphon Chest*5,Nocero Chest*5,Rare Material Chest*5",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452645757.jpg"
+        },
+        {
+            "name": "Pubg Mobile",
+            "description": "7D Winter Warmth Backpack,2 Silver fragment",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452715786.png"
+        },
+        {
+            "name": "MPL",
+            "description": "Trial Voucher MPL",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452398639.jpg"
+        },
+        {
+            "name": "Ayodance Mobile",
+            "description": "50 Ruby,1 Magic Card Ticket,50 Avatar Ticket,50 Face Ticket,50 Acc Ticket",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452449294.jpg"
+        },
+        {
+            "name": "Legend Of Kingdoms",
+            "description": "50 diamond,500 gold",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396860075.jpg"
+        }
+    ],
+    "howToActivates": [
+        {
+            "name": "Purchase package from myIndihome",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "Open IndiGamer website",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "View instructions on how to redeem you in-game items from indiGamer",
+            "description": "",
+            "active": true
+        }
+    ],
+    "howToRedeemUrl": "https://google.com",
+    "active": true
+}
+{
+    "index": {
+        "_index": "game-voucher-en-mobile",
+        "_id": "game_voucher_0002"
+    }
+}
+{
+    "id": "game_voucher_0002",
+    "voucherId": "bnfgame02",
+    "pricing": {
+        "price": 20000,
+        "discount": 0,
+        "payment": "MONTHLY"
+    },
+    "description": "Get a lot benefit to boost your performance in your mobile games",
+    "name": "PC Game",
+    "benefits": [
+        {
+            "name": "Point Blank",
+            "description": "Ammo up 40% 3D / Dedicated Troopers Gacha 2 Unit / Dual Knife 30D",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452683924.jpg"
+        },
+        {
+            "name": "Ran Online",
+            "description": "Inventory Backpack Card,2x Adon bracelet (5H),Pet Feed 100%,10x Megaphone",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452745458.jpg"
+        },
+        {
+            "name": "Angel Love Online",
+            "description": "Very Fortune Card 3 Day",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452415096.jpg"
+        },
+        {
+            "name": "3 Kingdoms Online",
+            "description": "7D-VIP Service,S-Perfect Mastery Pill,Stallion Blessing Talisman 5 pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452323141.jpg"
+        },
+        {
+            "name": "3 Kingdoms Reborn",
+            "description": "Special Syrup 100pcs,Special Ginseng 100pcs,Special Fortune 2pcs,S-Protect Talisman 2pcs,S-Soldier Reborn Scroll 10pcs,S-Revive Scroll 10pcs,Pesanan Loyal Order 1pcs,S-Double Exploit 1pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452341361.jpg"
+        },
+        {
+            "name": "PUBGLITE",
+            "description": "Desert Camo (Kar98K),Jungle (M416),Yellow Stripes (AKM)",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452697937.jpg"
+        },
+        {
+            "name": "RF Online",
+            "description": "MovementSpeed Increase Potion – 5 pcs,Advanced  Un-manned MineTool – 5 pcs ,Unmanned Mining Tool Battery[Extra-Large] – 5 pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452760499.jpg"
+        },
+        {
+            "name": "Cross Fire",
+            "description": "AK47 Knife,Bornbeast_Noblegold -7 Days, Desert Eagle-RoyalDragon5 -3 Days, Cursedoll Grenade -7 Days, Expand Grenade Slot -7 Days, Karakter JNS -14 Days",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452494182.jpg"
+        },
+        {
+            "name": "IdolStreet 2",
+            "description": "The Battle Pack,Seal of Metamorphosis (Soul Seal),Moe Dolly Card - Gacha,IDS Noble Card - 10 Days",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452578802.png"
+        }
+    ],
+    "howToActivates": [
+        {
+            "name": "Purchase package from myIndihome",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "Open IndiGamer website",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "View instructions on how to redeem you in-game items from indiGamer",
+            "description": "",
+            "active": true
+        }
+    ],
+    "howToRedeemUrl": "https://google.com",
+    "active": true
+}
+{
+    "index": {
+        "_index": "game-voucher-en-mobile",
+        "_id": "game_voucher_0003"
+    }
+}
+{
+    "id": "game_voucher_0003",
+    "voucherId": "bnfgame03",
+    "pricing": {
+        "price": 20000,
+        "discount": 0,
+        "payment": "MONTHLY"
+    },
+    "description": "Get a lot benefit to boost your performance in your mobile games",
+    "name": "Mobile Game",
+    "benefits": [
+        {
+            "name": "Lokapala",
+            "description": "Hero Trial Neera 7D",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396844487.jpg"
+        },
+        {
+            "name": "Free Fire",
+            "description": "Cool Captain Box (Random),Cool Captain Series 3 days trial",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396790613.jpg"
+        },
+        {
+            "name": "AOV",
+            "description": "Random BOX,Tel'Annas Love Sworn (Permanent),Tel'Annas Woodland (Permanent),Arthur Love Sworn (Permanent),Arthur Catacombs,Random Item",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452435355.jpg"
+        },
+        {
+            "name": "COD Mobile",
+            "description": "AK117 Blue Graffiti,Flag Grenade Blue Graffiti,Flashbag grenade  Blue Graffiti,Smoke Grenade Blue Graffiti,Concussion Grenade Blue Graffiti",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396700378.jpg"
+        },
+        {
+            "name": "Marvel Super War",
+            "description": "28 Crystals,Hero Clue 2 Pcs,3 Days Hero Try On Voucher",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396907613.jpg"
+        },
+        {
+            "name": "Lord Mobile",
+            "description": "500 gems,Speed Up(3 h)*3,Speed Up (60 m)*3,Gryphon Chest*5,Nocero Chest*5,Rare]Material Chest*5",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396886564.jpg"
+        },
+        {
+            "name": "Black Dessert",
+            "description": "100 Black Pearl",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606399485344.jpg"
+        },
+        {
+            "name": "Legend Of Kingdoms",
+            "description": "50 diamond,500 gold",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452624349.jpg"
+        },
+        {
+            "name": "Pubg Mobile",
+            "description": "7D Winter Warmth Backpack,2Silverfragment",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606399538465.png"
+        }
+    ],
+    "howToActivates": [
+        {
+            "name": "PurchasepackagefrommyIndihome",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "OpenIndiGamerwebsite",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "View instructions on how to redeem you in-game items from indiGamer",
+            "description": "",
+            "active": true
+        }
+    ],
+    "howToRedeemUrl": "https://google.com",
+    "active": true
+}
+{
+    "index": {
+        "_index": "game-voucher-en-mobile",
+        "_id": "game_voucher_0004"
+    }
+}
+{
+    "id": "game_voucher_0004",
+    "voucherId": "bnfgame04",
+    "pricing": {
+        "price": 20000,
+        "discount": 0,
+        "payment": "MONTHLY"
+    },
+    "description": "Get a lot benefit to boost your performance in your mobile games",
+    "name": "Board Game",
+    "benefits": [
+        {
+            "name": " Domino Qiu Qiu",
+            "description": "Free VIP Interactive Tool",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606453786489.jpg"
+        },
+        {
+            "name": " Domino Gaple",
+            "description": "Free VIP Interactive Tool",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606453751378.jpg"
+        },
+        {
+            "name": " Samgong",
+            "description": "Free VIP Interactive Tool",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606453805855.jpg"
+        },
+        {
+            "name": " BigBoss",
+            "description": " in Game Special Daily Login Bonus (2500 Coins + 3 Ruby)",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606453726844.jpg"
+        },
+        {
+            "name": "Legend Of Kingdoms",
+            "description": "50 diamond,500 gold",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606453670539.jpg"
+        }
+    ],
+    "howToActivates": [
+        {
+            "name": "Purchase package from myIndihome",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "Open IndiGamer website",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "View instructions on how to redeem you in-game items from indiGamer",
+            "description": "",
+            "active": true
+        }
+    ],
+    "howToRedeemUrl": "https://google.com",
+    "active": true
+}
+{
+    "index": {
+        "_index": "game-voucher-id-web",
+        "_id": "game_voucher_0001"
+    }
+}
+{
+    "id": "game_voucher_0001",
+    "voucherId": "bnfgame01",
+    "pricing": {
+        "price": 50000,
+        "discount": 0,
+        "payment": "ONETIME"
+    },
+    "description": "Dapatkan banyak manfaat untuk meningkatkan kinerja Anda dalam game seluler Anda!",
+    "name": "All in - One Game",
+    "benefits": [
+        {
+            "name": "Point Blank",
+            "description": "Ammo up 40% 3D / Dedicated Troopers Gacha 2 Unit / Dual Knife 30D",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452683924.jpg"
+        },
+        {
+            "name": "Domino Qiu Qiu",
+            "description": "Gratis VIP alat Interactive",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452730515.jpg"
+        },
+        {
+            "name": "Domino Gaple",
+            "description": "Gratis VIP alat Interactive",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452558774.jpg"
+        },
+        {
+            "name": "Samgong",
+            "description": "Gratis VIP alat Interactive",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452775814.jpg"
+        },
+        {
+            "name": "Ran Online",
+            "description": "Inventory Backpack Card,2x Adon bracelet (5H),Pet Feed 100%,10x Megaphone",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452745458.jpg"
+        },
+        {
+            "name": "Angel Love Online",
+            "description": "Very Fortune Card 3 Day",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452415096.jpg"
+        },
+        {
+            "name": "3 Kingdoms Online",
+            "description": "7D-VIP Service,S-Perfect Mastery Pill,Stallion Blessing Talisman 5 pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452323141.jpg"
+        },
+        {
+            "name": "3 Kingdoms Reborn",
+            "description": "Special Syrup 100pcs,Special Ginseng 100pcs,Special Fortune 2pcs,S-Protect Talisman 2pcs,S-Soldier Reborn Scroll 10pcs,S-Revive Scroll 10pcs,Pesanan Loyal Order 1pcs,S-Double Exploit 1pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452341361.jpg"
+        },
+        {
+            "name": "Free Fire",
+            "description": "Cool Captain Box (Random),Cool Captain Series 3 days trial",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452538885.jpg"
+        },
+        {
+            "name": "AOV",
+            "description": "Random BOX,Tel'Annas Love Sworn (Permanent),Tel'Annas Woodland (Permanent),Arthur Love Sworn (Permanent),Arthur Catacombs,Random Item",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452435355.jpg"
+        },
+        {
+            "name": "COD Mobile",
+            "description": "AK117 Blue Graffiti,Flag Grenade Blue Graffiti,Flashbag grenade  Blue Graffiti,Smoke Grenade Blue Graffiti,Concussion Grenade Blue Graffiti",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452480158.jpg"
+        },
+        {
+            "name": "Marvel Super War",
+            "description": "28 Crystals,Hero Clue 2 Pcs,3 Days Hero Try On Voucher",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452667430.jpg"
+        },
+        {
+            "name": "PUBGLITE",
+            "description": "Desert Camo (Kar98K),Jungle (M416),Yellow Stripes (AKM)",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452697937.jpg"
+        },
+        {
+            "name": "Cyristal Saga",
+            "description": "in Game Special Daily Login Bonus (25 Crystal )",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452525021.jpg"
+        },
+        {
+            "name": "Cyrystal Epic",
+            "description": "in Game Special Daily Login Bonus (25 Crystal )",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452510295.jpg"
+        },
+        {
+            "name": "BigBoss",
+            "description": "in Game Special Daily Login Bonus (2500 Coins + 3 Ruby)",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452464137.jpg"
+        },
+        {
+            "name": "RF Online",
+            "description": "MovementSpeed Increase Potion – 5 pcs,Advanced  Un-manned MineTool – 5 pcs,Unmanned Mining Tool Battery[Extra-Large] – 5 pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452760499.jpg"
+        },
+        {
+            "name": "Cross Fire",
+            "description": "AK47 Knife Bornbeast_Noblegold -7 hari, Desert Eagle-RoyalDragon5 -3 hari,Cursedoll Grenade -7 hari,Expand Grenade Slot -7 hari,Karakter JNS -14 hari",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452494182.jpg"
+        },
+        {
+            "name": "IdolStreet 2",
+            "description": "The Battle Pack,Seal of Metamorphosis (Soul Seal),Moe Dolly Card - Gacha,IDS Noble Card - 10 Days",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452578802.png"
+        },
+        {
+            "name": "Lokapala",
+            "description": "Hero Trial Neera 7D",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452610574.jpg"
+        },
+        {
+            "name": "Lord Mobile",
+            "description": "500 gems,Speed Up(3 h)*3,Speed Up (60 m)*3,Gryphon Chest*5,Nocero Chest*5,Rare Material Chest*5",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452645757.jpg"
+        },
+        {
+            "name": "Pubg Mobile",
+            "description": "7D Winter Warmth Backpack,2 Silver fragment",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452715786.png"
+        },
+        {
+            "name": "MPL",
+            "description": "Trial Voucher MPL",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452398639.jpg"
+        },
+        {
+            "name": "Ayodance Mobile",
+            "description": "50 Ruby,1 Magic Card Ticket,50 Avatar Ticket,50 Face Ticket,50 Acc Ticket",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452449294.jpg"
+        },
+        {
+            "name": "Legend Of Kingdoms",
+            "description": "50 diamond,500 gold",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396860075.jpg"
+        }
+    ],
+    "howToActivates": [
+        {
+            "name": "Purchase package from myIndihome",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "Open IndiGamer website",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "View instructions on how to redeem you in-game items from indiGamer",
+            "description": "",
+            "active": true
+        }
+    ],
+    "howToRedeemUrl": "https://google.com",
+    "active": true
+}
+{
+    "index": {
+        "_index": "game-voucher-id-web",
+        "_id": "game_voucher_0002"
+    }
+}
+{
+    "id": "game_voucher_0002",
+    "voucherId": "bnfgame02",
+    "pricing": {
+        "price": 20000,
+        "discount": 0,
+        "payment": "MONTHLY"
+    },
+    "description": "Dapatkan banyak manfaat untuk meningkatkan kinerja Anda dalam game seluler Anda!",
+    "name": "PC Game",
+    "benefits": [
+        {
+            "name": "Point Blank",
+            "description": "Ammo up 40% 3D / Dedicated Troopers Gacha 2 Unit / Dual Knife 30D",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452683924.jpg"
+        },
+        {
+            "name": "Ran Online",
+            "description": "Inventory Backpack Card,2x Adon bracelet (5H),Pet Feed 100%,10x Megaphone",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452745458.jpg"
+        },
+        {
+            "name": "Angel Love Online",
+            "description": "Very Fortune Card 3 Day",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452415096.jpg"
+        },
+        {
+            "name": "3 Kingdoms Online",
+            "description": "7D-VIP Service,S-Perfect Mastery Pill,Stallion Blessing Talisman 5 pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452323141.jpg"
+        },
+        {
+            "name": "3 Kingdoms Reborn",
+            "description": "Special Syrup 100pcs,Special Ginseng 100pcs,Special Fortune 2pcs,S-Protect Talisman 2pcs,S-Soldier Reborn Scroll 10pcs,S-Revive Scroll 10pcs,Pesanan Loyal Order 1pcs,S-Double Exploit 1pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452341361.jpg"
+        },
+        {
+            "name": "PUBGLITE",
+            "description": "Desert Camo (Kar98K),Jungle (M416),Yellow Stripes (AKM)",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452697937.jpg"
+        },
+        {
+            "name": "RF Online",
+            "description": "MovementSpeed Increase Potion – 5 pcs,Advanced  Un-manned MineTool – 5 pcs ,Unmanned Mining Tool Battery[Extra-Large] – 5 pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452760499.jpg"
+        },
+        {
+            "name": "Cross Fire",
+            "description": "AK47 Knife Bornbeast_Noblegold -7 hari, Desert Eagle-RoyalDragon5 -3 hari, Cursedoll Grenade -7 hari, Expand Grenade Slot -7 hari, Karakter JNS -14 hari",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452494182.jpg"
+        },
+        {
+            "name": "IdolStreet 2",
+            "description": "The Battle Pack,Seal of Metamorphosis (Soul Seal),Moe Dolly Card - Gacha,IDS Noble Card - 10 Days",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452578802.png"
+        }
+    ],
+    "howToActivates": [
+        {
+            "name": "Purchase package from myIndihome",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "Open IndiGamer website",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "View instructions on how to redeem you in-game items from indiGamer",
+            "description": "",
+            "active": true
+        }
+    ],
+    "howToRedeemUrl": "https://google.com",
+    "active": true
+}
+{
+    "index": {
+        "_index": "game-voucher-id-web",
+        "_id": "game_voucher_0003"
+    }
+}
+{
+    "id": "game_voucher_0003",
+    "voucherId": "bnfgame03",
+    "pricing": {
+        "price": 20000,
+        "discount": 0,
+        "payment": "MONTHLY"
+    },
+    "description": "Dapatkan banyak manfaat untuk meningkatkan kinerja Anda dalam game seluler Anda!",
+    "name": "Mobile Game",
+    "benefits": [
+        {
+            "name": "Lokapala",
+            "description": "Hero Trial Neera 7D",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396844487.jpg"
+        },
+        {
+            "name": "Free Fire",
+            "description": "Cool Captain Box (Random),Cool Captain Series 3 days trial",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396790613.jpg"
+        },
+        {
+            "name": "AOV",
+            "description": "Random BOX,Tel'Annas Love Sworn (Permanent),Tel'Annas Woodland (Permanent),Arthur Love Sworn (Permanent),Arthur Catacombs,Random Item",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452435355.jpg"
+        },
+        {
+            "name": "COD Mobile",
+            "description": "AK117 Blue Graffiti,Flag Grenade Blue Graffiti,Flashbag grenade  Blue Graffiti,Smoke Grenade Blue Graffiti,Concussion Grenade Blue Graffiti",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396700378.jpg"
+        },
+        {
+            "name": "Marvel Super War",
+            "description": "28 Crystals,Hero Clue 2 Pcs,3 Days Hero Try On Voucher",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396907613.jpg"
+        },
+        {
+            "name": "Lord Mobile",
+            "description": "500 gems,Speed Up(3 h)*3,Speed Up (60 m)*3,Gryphon Chest*5,Nocero Chest*5,Rare]Material Chest*5",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396886564.jpg"
+        },
+        {
+            "name": "Black Dessert",
+            "description": "100 Black Pearl",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606399485344.jpg"
+        },
+        {
+            "name": "Legend Of Kingdoms",
+            "description": "50 diamond,500 gold",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396860075.jpg"
+        },
+        {
+            "name": "Pubg Mobile",
+            "description": "7D Winter Warmth Backpack,2Silverfragment",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606399538465.png"
+        }
+    ],
+    "howToActivates": [
+        {
+            "name": "PurchasepackagefrommyIndihome",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "OpenIndiGamerwebsite",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "View instructions on how to redeem you in-game items from indiGamer",
+            "description": "",
+            "active": true
+        }
+    ],
+    "howToRedeemUrl": "https://google.com",
+    "active": true
+}
+{
+    "index": {
+        "_index": "game-voucher-id-web",
+        "_id": "game_voucher_0004"
+    }
+}
+{
+    "id": "game_voucher_0004",
+    "voucherId": "bnfgame04",
+    "pricing": {
+        "price": 20000,
+        "discount": 0,
+        "payment": "MONTHLY"
+    },
+    "description": "Dapatkan banyak manfaat untuk meningkatkan kinerja Anda dalam game seluler Anda!",
+    "name": "Board Game",
+    "benefits": [
+        {
+            "name": " Domino Qiu Qiu",
+            "description": " Gratis VIP alat Interactive, VIP Emoticon, selama 3 hari",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606453786489.jpg"
+        },
+        {
+            "name": " Domino Gaple",
+            "description": " Gratis VIP alat Interactive, VIP Emoticon, selama 3 hari",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606453751378.jpg"
+        },
+        {
+            "name": "Samgong",
+            "description": "Gratis VIP alat Interactive, VIP Emoticon, selama 3 hari",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606453805855.jpg"
+        },
+        {
+            "name": " BigBoss",
+            "description": " in Game Special Daily Login Bonus (2500 Coins + 3 Ruby)",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606453726844.jpg"
+        },
+        {
+            "name": "Legend Of Kingdoms",
+            "description": "50 diamond,500 gold",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606453670539.jpg"
+        }
+    ],
+    "howToActivates": [
+        {
+            "name": "Purchase package from myIndihome",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "Open IndiGamer website",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "View instructions on how to redeem you in-game items from indiGamer",
+            "description": "",
+            "active": true
+        }
+    ],
+    "howToRedeemUrl": "https://google.com",
+    "active": true
+}
+{
+    "index": {
+        "_index": "game-voucher-id-mobile",
+        "_id": "game_voucher_0001"
+    }
+}
+{
+    "id": "game_voucher_0001",
+    "voucherId": "bnfgame01",
+    "pricing": {
+        "price": 50000,
+        "discount": 0,
+        "payment": "ONETIME"
+    },
+    "description": "Dapatkan banyak manfaat untuk meningkatkan kinerja Anda dalam game seluler Anda!",
+    "name": "All in - One Game",
+    "benefits": [
+        {
+            "name": "Point Blank",
+            "description": "Ammo up 40% 3D / Dedicated Troopers Gacha 2 Unit / Dual Knife 30D",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452683924.jpg"
+        },
+        {
+            "name": "Domino Qiu Qiu",
+            "description": "Gratis VIP alat Interactive",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452730515.jpg"
+        },
+        {
+            "name": "Domino Gaple",
+            "description": "Gratis VIP alat Interactive",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452558774.jpg"
+        },
+        {
+            "name": "Samgong",
+            "description": "Gratis VIP alat Interactive",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452775814.jpg"
+        },
+        {
+            "name": "Ran Online",
+            "description": "Inventory Backpack Card,2x Adon bracelet (5H),Pet Feed 100%,10x Megaphone",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452745458.jpg"
+        },
+        {
+            "name": "Angel Love Online",
+            "description": "Very Fortune Card 3 Day",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452415096.jpg"
+        },
+        {
+            "name": "3 Kingdoms Online",
+            "description": "7D-VIP Service,S-Perfect Mastery Pill,Stallion Blessing Talisman 5 pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452323141.jpg"
+        },
+        {
+            "name": "3 Kingdoms Reborn",
+            "description": "Special Syrup 100pcs,Special Ginseng 100pcs,Special Fortune 2pcs,S-Protect Talisman 2pcs,S-Soldier Reborn Scroll 10pcs,S-Revive Scroll 10pcs,Pesanan Loyal Order 1pcs,S-Double Exploit 1pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452341361.jpg"
+        },
+        {
+            "name": "Free Fire",
+            "description": "Cool Captain Box (Random),Cool Captain Series 3 days trial",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452538885.jpg"
+        },
+        {
+            "name": "AOV",
+            "description": "Random BOX,Tel'Annas Love Sworn (Permanent),Tel'Annas Woodland (Permanent),Arthur Love Sworn (Permanent),Arthur Catacombs,Random Item",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452435355.jpg"
+        },
+        {
+            "name": "COD Mobile",
+            "description": "AK117 Blue Graffiti,Flag Grenade Blue Graffiti,Flashbag grenade  Blue Graffiti,Smoke Grenade Blue Graffiti,Concussion Grenade Blue Graffiti",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452480158.jpg"
+        },
+        {
+            "name": "Marvel Super War",
+            "description": "28 Crystals,Hero Clue 2 Pcs,3 Days Hero Try On Voucher",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452667430.jpg"
+        },
+        {
+            "name": "PUBGLITE",
+            "description": "Desert Camo (Kar98K),Jungle (M416),Yellow Stripes (AKM)",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452697937.jpg"
+        },
+        {
+            "name": "Cyristal Saga",
+            "description": "in Game Special Daily Login Bonus (25 Crystal )",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452525021.jpg"
+        },
+        {
+            "name": "Cyrystal Epic",
+            "description": "in Game Special Daily Login Bonus (25 Crystal )",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452510295.jpg"
+        },
+        {
+            "name": "BigBoss",
+            "description": "in Game Special Daily Login Bonus (2500 Coins + 3 Ruby)",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452464137.jpg"
+        },
+        {
+            "name": "RF Online",
+            "description": "MovementSpeed Increase Potion – 5 pcs,Advanced  Un-manned MineTool – 5 pcs,Unmanned Mining Tool Battery[Extra-Large] – 5 pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452760499.jpg"
+        },
+        {
+            "name": "Cross Fire",
+            "description": "AK47 Knife Bornbeast_Noblegold -7 hari, Desert Eagle-RoyalDragon5 -3 hari,Cursedoll Grenade -7 hari,Expand Grenade Slot -7 hari,Karakter JNS -14 hari",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452494182.jpg"
+        },
+        {
+            "name": "IdolStreet 2",
+            "description": "The Battle Pack,Seal of Metamorphosis (Soul Seal),Moe Dolly Card - Gacha,IDS Noble Card - 10 Days",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452578802.png"
+        },
+        {
+            "name": "Lokapala",
+            "description": "Hero Trial Neera 7D",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452610574.jpg"
+        },
+        {
+            "name": "Lord Mobile",
+            "description": "500 gems,Speed Up(3 h)*3,Speed Up (60 m)*3,Gryphon Chest*5,Nocero Chest*5,Rare Material Chest*5",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452645757.jpg"
+        },
+        {
+            "name": "Pubg Mobile",
+            "description": "7D Winter Warmth Backpack,2 Silver fragment",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452715786.png"
+        },
+        {
+            "name": "MPL",
+            "description": "Trial Voucher MPL",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452398639.jpg"
+        },
+        {
+            "name": "Ayodance Mobile",
+            "description": "50 Ruby,1 Magic Card Ticket,50 Avatar Ticket,50 Face Ticket,50 Acc Ticket",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452449294.jpg"
+        },
+        {
+            "name": "Legend Of Kingdoms",
+            "description": "50 diamond,500 gold",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452624349.jpg"
+        }
+    ],
+    "howToActivates": [
+        {
+            "name": "Purchase package from myIndihome",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "Open IndiGamer website",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "View instructions on how to redeem you in-game items from indiGamer",
+            "description": "",
+            "active": true
+        }
+    ],
+    "howToRedeemUrl": "https://google.com",
+    "active": true
+}
+{
+    "index": {
+        "_index": "game-voucher-id-mobile",
+        "_id": "game_voucher_0002"
+    }
+}
+{
+    "id": "game_voucher_0002",
+    "voucherId": "bnfgame02",
+    "pricing": {
+        "price": 20000,
+        "discount": 0,
+        "payment": "MONTHLY"
+    },
+    "description": "Dapatkan banyak manfaat untuk meningkatkan kinerja Anda dalam game seluler Anda!",
+    "name": "PC Game",
+    "benefits": [
+        {
+            "name": "Point Blank",
+            "description": "Ammo up 40% 3D / Dedicated Troopers Gacha 2 Unit / Dual Knife 30D",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452683924.jpg"
+        },
+        {
+            "name": "Ran Online",
+            "description": "Inventory Backpack Card,2x Adon bracelet (5H),Pet Feed 100%,10x Megaphone",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452745458.jpg"
+        },
+        {
+            "name": "Angel Love Online",
+            "description": "Very Fortune Card 3 Day",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452415096.jpg"
+        },
+        {
+            "name": "3 Kingdoms Online",
+            "description": "7D-VIP Service,S-Perfect Mastery Pill,Stallion Blessing Talisman 5 pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452323141.jpg"
+        },
+        {
+            "name": "3 Kingdoms Reborn",
+            "description": "Special Syrup 100pcs,Special Ginseng 100pcs,Special Fortune 2pcs,S-Protect Talisman 2pcs,S-Soldier Reborn Scroll 10pcs,S-Revive Scroll 10pcs,Pesanan Loyal Order 1pcs,S-Double Exploit 1pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452341361.jpg"
+        },
+        {
+            "name": "PUBGLITE",
+            "description": "Desert Camo (Kar98K),Jungle (M416),Yellow Stripes (AKM)",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452697937.jpg"
+        },
+        {
+            "name": "RF Online",
+            "description": "MovementSpeed Increase Potion – 5 pcs,Advanced  Un-manned MineTool – 5 pcs ,Unmanned Mining Tool Battery[Extra-Large] – 5 pcs",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452760499.jpg"
+        },
+        {
+            "name": "Cross Fire",
+            "description": "AK47 Knife Bornbeast_Noblegold -7 hari,Desert Eagle-RoyalDragon5 -3 hari,Cursedoll Grenade -7 hari, Expand Grenade Slot -7 hari, Karakter JNS -14 hari",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452494182.jpg"
+        },
+        {
+            "name": "IdolStreet 2",
+            "description": "The Battle Pack,Seal of Metamorphosis (Soul Seal),Moe Dolly Card - Gacha,IDS Noble Card - 10 Days",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452578802.png"
+        }
+    ],
+    "howToActivates": [
+        {
+            "name": "Purchase package from myIndihome",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "Open IndiGamer website",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "View instructions on how to redeem you in-game items from indiGamer",
+            "description": "",
+            "active": true
+        }
+    ],
+    "howToRedeemUrl": "https://google.com",
+    "active": true
+}
+{
+    "index": {
+        "_index": "game-voucher-id-mobile",
+        "_id": "game_voucher_0003"
+    }
+}
+{
+    "id": "game_voucher_0003",
+    "voucherId": "bnfgame03",
+    "pricing": {
+        "price": 20000,
+        "discount": 0,
+        "payment": "MONTHLY"
+    },
+    "description": "Dapatkan banyak manfaat untuk meningkatkan kinerja Anda dalam game seluler Anda!",
+    "name": "Mobile Game",
+    "benefits": [
+        {
+            "name": "Lokapala",
+            "description": "Hero Trial Neera 7D",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396844487.jpg"
+        },
+        {
+            "name": "Free Fire",
+            "description": "Cool Captain Box (Random),Cool Captain Series 3 days trial",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452538885.jpg"
+        },
+        {
+            "name": "AOV",
+            "description": "Random BOX,Tel'Annas Love Sworn (Permanent),Tel'Annas Woodland (Permanent),Arthur Love Sworn (Permanent),Arthur Catacombs,Random Item",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452435355.jpg"
+        },
+        {
+            "name": "COD Mobile",
+            "description": "AK117 Blue Graffiti,Flag Grenade Blue Graffiti,Flashbag grenade  Blue Graffiti,Smoke Grenade Blue Graffiti,Concussion Grenade Blue Graffiti",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396700378.jpg"
+        },
+        {
+            "name": "Marvel Super War",
+            "description": "28 Crystals,Hero Clue 2 Pcs,3 Days Hero Try On Voucher",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396907613.jpg"
+        },
+        {
+            "name": "Lord Mobile",
+            "description": "500 gems,Speed Up(3 h)*3,Speed Up (60 m)*3,Gryphon Chest*5,Nocero Chest*5,Rare]Material Chest*5",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396886564.jpg"
+        },
+        {
+            "name": "Black Dessert",
+            "description": "100 Black Pearl",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606399485344.jpg"
+        },
+        {
+            "name": "Legend Of Kingdoms",
+            "description": "50 diamond,500 gold",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396860075.jpg"
+        },
+        {
+            "name": "Pubg Mobile",
+            "description": "7D Winter Warmth Backpack,2Silverfragment",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606399538465.png"
+        }
+    ],
+    "howToActivates": [
+        {
+            "name": "PurchasepackagefrommyIndihome",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "OpenIndiGamerwebsite",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "View instructions on how to redeem you in-game items from indiGamer",
+            "description": "",
+            "active": true
+        }
+    ],
+    "howToRedeemUrl": "https://google.com",
+    "active": true
+}
+{
+    "index": {
+        "_index": "game-voucher-id-mobile",
+        "_id": "game_voucher_0004"
+    }
+}
+{
+    "id": "game_voucher_0004",
+    "voucherId": "bnfgame04",
+    "pricing": {
+        "price": 20000,
+        "discount": 0,
+        "payment": "MONTHLY"
+    },
+    "description": "Dapatkan banyak manfaat untuk meningkatkan kinerja Anda dalam game seluler Anda!",
+    "name": "Board Game",
+    "benefits": [
+        {
+            "name": " Domino Qiu Qiu",
+            "description": " Gratis VIP alat Interactive, VIP Emoticon, selama 3 hari",
+            "active": true,
+            "icon": "https://myihx-cms.myih.telkom.co.id/static/images/image-1606452730515.jpg"
+        },
+        {
+            "name": " Domino Gaple",
+            "description": " Gratis VIP alat Interactive, VIP Emoticon, selama 3 hari",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396804304.jpg"
+        },
+        {
+            "name": "Samgong",
+            "description": "Gratis VIP alat Interactive, VIP Emoticon, selama 3 hari",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606397007961.jpg"
+        },
+        {
+            "name": " BigBoss",
+            "description": " in Game Special Daily Login Bonus (2500 Coins + 3 Ruby)",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396668808.jpg"
+        },
+        {
+            "name": "Legend Of Kingdoms",
+            "description": "50 diamond,500 gold",
+            "active": true,
+            "icon": "http://ec2-18-140-83-171.ap-southeast-1.compute.amazonaws.com:8115/static/images/image-1606396860075.jpg"
+        }
+    ],
+    "howToActivates": [
+        {
+            "name": "Purchase package from myIndihome",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "Open IndiGamer website",
+            "description": "",
+            "active": true
+        },
+        {
+            "name": "View instructions on how to redeem you in-game items from indiGamer",
+            "description": "",
+            "active": true
+        }
+    ],
+    "howToRedeemUrl": "https://google.com",
+    "active": true
+}
